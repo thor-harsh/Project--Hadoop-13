@@ -12,3 +12,7 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
  **(Movie-Id):** The movie id of movie which users rated<br></br>
  **(Ratings):** The ratings which the user gave to the given movie<br></br>
  **(Timestamp):** The time at which the user rated the given movie<br></br>
+
+ **Important Note: Go through the dataset before jumping to the code.**
+
+ **So what are you waiting for..? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
