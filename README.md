@@ -1,6 +1,6 @@
 # Project--Hadoop-13
 
-**In this project we will be using Spark to count the total number of ratings given by user for each unique ratings from the u.data dataset.**
+**In this project we will be using Spark with Python to count the total number of ratings given by user for each unique ratings from the u.data dataset.**
 
 **Before diving into the project lets get to know about Spark.**
 
